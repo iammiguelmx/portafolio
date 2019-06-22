@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Portafolio of my projects in GithUB
+> Portafolio of my projects in Github
 
 ## Author
 
